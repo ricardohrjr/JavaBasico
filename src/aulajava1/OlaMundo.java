@@ -7,7 +7,7 @@ package aulajava1;
  * @author Casa
  *
  */
-public class main {
+public class OlaMundo {
 
 	/**
 	 * @param args
